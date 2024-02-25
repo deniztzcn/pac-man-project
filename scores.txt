@@ -1,0 +1,5 @@
+deniz	640
+deniz	3170
+deniz	1870
+player2	2020
+dtt	2160
